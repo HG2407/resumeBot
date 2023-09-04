@@ -1,0 +1,1 @@
+.container{display:inline-block;width:25.2rem;height:35rem;border:.1rem solid #000}.displayBox{width:25rem;height:33rem;background-color:#dcdcdc;overflow-y:scroll}::-webkit-scrollbar{width:0}.displayBox p{text-align:left;padding:0 1rem;overflow-wrap:break-word}input{width:100%;height:2rem}.wait{position:absolute;bottom:3%;right:46%}#app{width:100%;text-align:center}
